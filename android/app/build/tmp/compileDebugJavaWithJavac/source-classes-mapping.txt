@@ -1,0 +1,14 @@
+com/applicationtracker/MainActivity.java
+ com.applicationtracker.MainActivity
+com/applicationtracker/ReactNativeFlipper.java
+ com.applicationtracker.ReactNativeFlipper
+ com.applicationtracker.ReactNativeFlipper$1
+ com.applicationtracker.ReactNativeFlipper$2
+ com.applicationtracker.ReactNativeFlipper$2$1
+com/applicationtracker/BuildConfig.java
+ com.applicationtracker.BuildConfig
+com/facebook/react/PackageList.java
+ com.facebook.react.PackageList
+com/applicationtracker/MainApplication.java
+ com.applicationtracker.MainApplication
+ com.applicationtracker.MainApplication$1
